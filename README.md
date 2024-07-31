@@ -1,9 +1,12 @@
-# INTRODUCTION
+# INTRODUCTION 😺
 Hi, my name's Thanh, but you can call me William. I'm studying software engineer at Ho Chi Minh City University of Foreign Language and Information Technology (HUFLIT). 
 
-If you ask me what do I do in my free time, I will say that playing games with my friends, listening to K-Pop songs, singing alone, or watching horror movies. Sometimes, I will spend a little time to learn coding. About my weaknesses, I am super shy and I don't feel confident about my coding skills Beside, I'm a very passive person and bad at communicating with people. However, I will try my best to improve my self and learn as many programming languages as I can for my future life :D
+If you ask me what do I do in my free time, I will say that playing games with my friends, listening to K-Pop songs, singing alone, or watching horror movies. Sometimes, I will spend a little time to learn coding. 
 
-# ABOUT WHAT LANGUAGES AND TOOLS HAVE I BEEN LEARNING
+About my weaknesses, I am super shy and I don't feel confident about my coding skills Beside, I'm a very passive person and bad at communicating with people. However, I will try my best to improve my self and learn as many programming languages as I can for my future life :D
+
+
+# ABOUT WHAT LANGUAGES AND TOOLS HAVE I BEEN LEARNING 👨‍💻
 <h3>LANGUAGES</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
